@@ -1,5 +1,16 @@
 # react-scripts
 
+## Create React App including wasm support
+
+```
+npx create-react-app my_awesome_app --scripts-version wasm-react-scripts
+```
+or with typescript support
+```
+npx create-react-app my_awesome_app --scripts-version wasm-react-scripts --template typescript
+```
+
+
 This package includes scripts and configuration used by [Create React App](https://github.com/facebook/create-react-app).<br>
 Please refer to its documentation:
 
